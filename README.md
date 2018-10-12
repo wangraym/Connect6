@@ -9,6 +9,7 @@ For this assignment, the game was simplified such that each player only makes on
  - Moves must be made within 1 second
  - Ties are broken by the program that took less overall time in the game
  
+ I got a lot of insight about how to solve this challenge from here: https://www.aaai.org/Papers/Symposia/Fall/1993/FS-93-02/FS93-02-001.pdf
  
 # Strategy
 
